@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data analisys with public data
+- 🔭 I’m currently working on data analysis with public data
 - 🌱 I’m currently learning data visualization and design tools
 - 👯 I’m looking to collaborate on power bi and tableau projects
 <!--
