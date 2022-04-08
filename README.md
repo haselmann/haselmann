@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on data analisys with public data
+- 🌱 I’m currently learning data visualization and design tools
+- 👯 I’m looking to collaborate on power bi and tableau projects
 <!--
 **haselmann/haselmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
