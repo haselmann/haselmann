@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning data visualization and design tools
 - 👯 I’m looking to collaborate on power bi and tableau projects
 
-<div align="center">
+<div style="display: inline_block>
   <a href="https://github.com/haselmann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haselmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width src="https://github-readme-stats.vercel.app/api?username=haselmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haselmann&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
