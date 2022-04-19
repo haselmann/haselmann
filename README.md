@@ -1,4 +1,6 @@
-### Olá! Eu sou Victor e trabalho com análise de dados, criação de conteúdo de programação e visualização de dados
+Hi, i'm Victor, a passionate economist and data scientist from Brazil. My passion for data analytics and visualization lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 🔭 I’m currently working on data analysis with public data
 - 🌱 I’m currently learning data visualization and design tools
